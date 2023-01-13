@@ -5,7 +5,7 @@ This is a selfhosted Discord bot for the computer game Star Citizen. During mult
 
 You can find additional screenshots on spectrum: https://robertsspaceindustries.com/spectrum/community/SC/forum/57219/thread/multicrew-trading-discord-bot
 
-Docker Hub: https://hub.docker.com/repository/docker/florianalt/sc-multicrew-trading-bot/general
+Docker Hub: https://hub.docker.com/r/florianalt/sc-multicrew-trading-bot
 
 # Setup
 https://github.com/AltFlorian/sc-multicrew-trading-bot/wiki
